@@ -2,6 +2,8 @@
 
 ## Major Changes 
 
+[![Run on Repl.it](https://repl.it/badge/github/Shubham-Agrawal1206/IITDMarketServer)](https://repl.it/github/Shubham-Agrawal1206/IITDMarketServer)
+
 **30 May**
 1. Established chat socket
 2. Established user eventsource route
